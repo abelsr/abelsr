@@ -41,8 +41,8 @@ Currently, I'm working on my undergraduated thesis project that is focus on Neur
 ## 🤝 Let's Connect
 I'm always open to collaboration and learning from others. Feel free to reach out if you want to discuss projects, share ideas, or just connect.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AbelSantillan-blue)](https://www.linkedin.com/in/abelsantillan/)
-[![GitHub](https://img.shields.io/badge/GitHub-abelsr-green)](https://www.linkedin.com/in/abel-santillan-rodriguez-2035b12b9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AbelSantillan-blue)](https://www.linkedin.com/in/abel-santillan-rodriguez-2035b12b9/)
+[![GitHub](https://img.shields.io/badge/GitHub-abelsr-green)](https://github.com/abelsr/)
 
 ## 📈 GitHub Stats
 ![Abel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abelsr&show_icons=true&theme=tokyonight)
