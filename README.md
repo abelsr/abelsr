@@ -2,7 +2,7 @@
 
 ### Current Projects
 [![abelsr/Fourier-Neural-Operator - GitHub](https://gh-card.dev/repos/abelsr/Fourier-Neural-Operator.svg?fullname=)](https://github.com/abelsr/Fourier-Neural-Operator)
-[![abelsr/Computational-Physics - GitHub](https://gh-card.dev/repos/abelsr/Computational-Physics.svg?fullname=)](https://github.com/abelsr/Computational-Physics)
+[![abelsr/Neural_Vlasov_Maxwell - GitHub](https://gh-card.dev/repos/abelsr/Neural_Vlasov_Maxwell.svg?fullname=)](https://github.com/abelsr/Neural_Vlasov_Maxwell)
 
 ## About Me
 I'm Abel Santillan Rodríguez, a passionate student of Physics Engineering currently in the 9th semester at the Universidad Autónoma de Querétaro.
