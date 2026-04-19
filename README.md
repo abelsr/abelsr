@@ -170,10 +170,8 @@ $$
 ---
 
 ## 📄 Publications
-
-* 🧠 **Uso de algoritmos de redes neuronales para la resolución de problemas numéricos en física disminuyendo el costo computacional**
-  *Universidad Autónoma de Querétaro, 2026*
-  *(Indexed thesis / academic publication)*
+* [🧠 **Uso de redes neuronales para la resolución de problemas numéricos en física con menor costo computacional** ](https://ri-ng.uaq.mx/handle/123456789/12827)
+  *Universidad Autónoma de Querétaro, 2026*  
 
 * 🧠 **On the dynamics of a rolling spherical charged shell**
   *Revista Mexicana de Física E, 2024*
