@@ -23,9 +23,9 @@ AI Systems Engineer with a background in physics, focused on designing and deplo
 
 I work across the full stack of AI:
 
-[
+$$
 \text{Data → Training → Optimization → Deployment → Scaling}
-]
+$$
 
 * 🤖 Multimodal AI (LLMs + Vision + Video)
 * ⚙️ ML Infrastructure & High-performance inference
@@ -63,9 +63,9 @@ I work across the full stack of AI:
 ### ⚡ Performance & Cost Optimization
 
 * Reduced GPU costs:
-  [
+  $$
   0.44 \ \text{USD/hr} \rightarrow 0.24 \ \text{USD/hr}
-  ]
+  $$
 * Improved GPU utilization via batching & optimization strategies
 * Optimized inference latency and throughput
 
