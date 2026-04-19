@@ -1,81 +1,261 @@
-﻿# Hello World! 👋
+﻿<h1 align="center">🚀 Abel Santillán Rodriguez</h1>
+<h3 align="center">AI Systems Engineer | Multimodal AI | ML Infrastructure ⚡</h3>
 
-### Current Projects
-[![abelsr/Fourier-Neural-Operator - GitHub](https://gh-card.dev/repos/abelsr/Fourier-Neural-Operator.svg?fullname=)](https://github.com/abelsr/Fourier-Neural-Operator)
-[![abelsr/Neural_Vlasov_Maxwell - GitHub](https://gh-card.dev/repos/abelsr/Neural_Vlasov_Maxwell.svg?fullname=)](https://github.com/abelsr/Neural_Vlasov_Maxwell)
+<p align="center">
+  <a href="https://github.com/abelsr">
+    <img src="https://img.shields.io/github/followers/abelsr?label=Followers&style=social" />
+  </a>
+  <img src="https://img.shields.io/badge/AI-Production%20Systems-blue" />
+  <img src="https://img.shields.io/badge/ML-End--to--End-green" />
+  <img src="https://img.shields.io/badge/Infra-GPU%20Optimized-orange" />
+</p>
 
-## About Me
-I'm Abel Santillan Rodríguez, a passionate student of Physics Engineering currently in the 9th semester at the Universidad Autónoma de Querétaro.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abelsr&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abelsr&theme=tokyonight" />
+</p>
 
-## 🚀 My Journey
-I am on an exciting journey exploring the intersection of physics and technology, with a particular focus on data science and machine learning.
-
-My focus is on apply computational methods to solve problems in physics and engineering, and I'm always looking for opportunities to learn and grow in this field.
-
-## 📚 Academic Background
-- Studying at the Faculty of Engineering, Universidad Autónoma de Querétaro.
-- Currently in the 9th semester of the Physics Engineering program.
-
-## 📚🧮 Research and Projects
-- [Research on Mechanical-Electrodynamical problem.](https://rmf.smf.mx/ojs/index.php/rmf-e/article/view/7233)
-- [Research on ADHT software development.](https://revistas.uaq.mx/index.php/perspectivas/article/view/1104)
-- Undergraduate thesis project on Neural Operators. (In progress)
-
-## 💻 What I'm Working On
-I'm actively involved in hands-on projects related to data science and machine learning. My goal is to apply theoretical knowledge from my engineering studies to real-world problem-solving.
-
-Currently, I'm working on my undergraduated thesis project that is focus on Neural Operators, in particular Fourier Neural Operator applied to solve Parametric Partial Differential Equations
-
-## 🌱 Skills
-- *Physics:* Classical mechanics, electrodynamics, quantum mechanics.
-- *Math:* Linear algebra, calculus, complex analysis, numerical methods.
-- *Programming Languages:* Python, Julia, C++, Bash
-- *Data Science Tools:* Pandas, NumPy, Matplotlib, Scikit-Learn, PyTorch, TensorFlow
-- *Machine Learning:* Regression, Classification, Clustering, Neural Operators, LLMs
-
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abelsr&layout=compact&theme=algolia)
-
-
-
-## 🤝 Let's Connect
-I'm always open to collaboration and learning from others. Feel free to reach out if you want to discuss projects, share ideas, or just connect.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AbelSantillan-blue)](https://www.linkedin.com/in/abel-santillan-rodriguez-2035b12b9/)
-[![GitHub](https://img.shields.io/badge/GitHub-abelsr-green)](https://github.com/abelsr/)
-
-## 📈 GitHub Stats
-![Abel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abelsr&show_icons=true&theme=tokyonight)
 ---
 
+## 🧠 About Me
 
-Feel free to explore my repositories, and don't hesitate to provide feedback or suggestions. Let's learn and grow together! 🌟
+AI Systems Engineer with a background in physics, focused on designing and deploying **end-to-end intelligent systems in production**.
 
-## Citation for the papers
-```bibtex
-@article{Cervantes2024,
-  author = {Cervantes Contreras, A. and Santillán Rodríguez, A. and Soria Silva, L. G.},
-  title = {On the dynamics of a rolling spherical charged shell},
-  journal = {Rev. Mex. Fis. E},
-  volume = {21},
-  number = {1},
-  pages = {010210 1--},
-  month = {Jan-Jun},
-  year = {2024},
-  doi = {10.31349/RevMexFisE.21.010210},
-  url = {https://doi.org/10.31349/RevMexFisE.21.010210}
-}
-```
-```bibtex
-@article{Cabrera2023,
-  author = {Cabrera Hernández, M. del C. and Aceves Fernández, M. A. and Santillán Rodríguez, A. and Pedraza Ortega, C. J. and Toledano Ayala, M.},
-  title = {Software de pruebas para detección de niveles de atención},
-  journal = {PCT},
-  volume = {6},
-  number = {11},
-  pages = {58--69},
-  month = {Aug.},
-  year = {2023},
-  doi = {10.61820/pct.v6i11.1104}
-}
-```
+I work across the full stack of AI:
+
+[
+\text{Data → Training → Optimization → Deployment → Scaling}
+]
+
+* 🤖 Multimodal AI (LLMs + Vision + Video)
+* ⚙️ ML Infrastructure & High-performance inference
+* 🧠 Autonomous Agents & Runtime Systems
+* 🔬 Scientific Machine Learning
+
+🚀 Founder @ **Phoson.lat**
+
+---
+
+## 🎓 Education
+
+<p>
+  <img src="https://img.shields.io/badge/UNAM-MSc%20Artificial%20Intelligence-blue" />
+  <img src="https://img.shields.io/badge/UAQ-Physics%20Engineering-orange" />
+</p>
+
+* 🎓 MSc in Artificial Intelligence (in progress) — UNAM
+* ⚛️ BSc in Physics Engineering — Universidad Autónoma de Querétaro (UAQ)
+
+---
+
+## 🚀 Production Experience
+
+### 🔥 AI Systems in Production
+
+* Built and deployed a **Face Liveness Detection system**
+
+  * Real-time inference via WebSockets
+  * End-to-end pipeline: training → deployment → monitoring
+  * Debugged production failures and scaled infra under load
+
+---
+
+### ⚡ Performance & Cost Optimization
+
+* Reduced GPU costs:
+  [
+  0.44 \ \text{USD/hr} \rightarrow 0.24 \ \text{USD/hr}
+  ]
+* Improved GPU utilization via batching & optimization strategies
+* Optimized inference latency and throughput
+
+---
+
+### 🧠 AI Platform & SaaS
+
+* 🚀 Built **Phoson.lat**
+
+  * Agent runtime system
+  * Sandbox execution with Docker *(private system)*
+  * Distributed workers (including external machines)
+
+* 🏢 Developed SaaS:
+
+  * CondoManager.pro
+
+---
+
+## ⚙️ ML Infrastructure, MLOps & Deployment
+
+<p>
+  <img src="https://img.shields.io/badge/vLLM-LLM%20Serving-blueviolet" />
+  <img src="https://img.shields.io/badge/SGLang-Inference-purple" />
+  <img src="https://img.shields.io/badge/NVIDIA-Triton-76B900?logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorRT-Optimization-green" />
+  <img src="https://img.shields.io/badge/ONNX-Interoperability-blue" />
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white" />
+</p>
+
+* End-to-end ML pipelines (training → deployment → monitoring)
+* INT8 quantization & TensorRT optimization
+* GPU cluster management (NVIDIA & AMD)
+* High-performance inference systems
+
+---
+
+## ☁️ Cloud & Distributed Systems
+
+<p>
+  <img src="https://img.shields.io/badge/GCP-Cloud-4285F4?logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCI-Cloud-red" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/RunPod-GPU-black" />
+</p>
+
+* Multi-cloud deployment (GCP, OCI, AWS, RunPod)
+* Distributed GPU workloads
+
+---
+
+## 🔄 Distributed Systems & Reliability
+
+* APIs with **FastAPI + workers + queues**
+
+* Messaging systems:
+
+  * RabbitMQ
+  * Redis
+
+* Observability:
+
+  * Grafana
+  * Structured logging
+
+* Production resilience:
+
+  * Timeouts, retries, fallback strategies
+  * Real-time debugging under failure scenarios
+
+---
+
+## 🧠 Model Development
+
+<p>
+  <img src="https://img.shields.io/badge/Transformers-Vision%20%2F%20Text-yellow" />
+  <img src="https://img.shields.io/badge/YOLO-Detection-red" />
+  <img src="https://img.shields.io/badge/NLP-Classification-blue" />
+  <img src="https://img.shields.io/badge/Edge%20AI-Deployment-green" />
+</p>
+
+* Vision Transformers & CNNs
+* YOLO-based object detection
+* NLP systems and classifiers
+* Edge deployment
+
+---
+
+## 🧠 Advanced ML & Research
+
+* Multi-GPU training (AMD & NVIDIA)
+* LoRA fine-tuning for LLM adaptation
+* Synthetic data generation & automated labeling pipelines
+* Custom evaluation metrics & benchmarking
+
+### 🔬 Research Work
+
+* Fourier Neural Operators (FNO)
+* Vlasov-Poisson systems (astrophysics)
+* Mixture-of-Experts architectures for neural operators
+
+---
+
+## 📄 Publications
+
+* 🧠 **Uso de algoritmos de redes neuronales para la resolución de problemas numéricos en física disminuyendo el costo computacional**
+  *Universidad Autónoma de Querétaro, 2026*
+  *(Indexed thesis / academic publication)*
+
+* 🧠 **On the dynamics of a rolling spherical charged shell**
+  *Revista Mexicana de Física E, 2024*
+  https://doi.org/10.31349/RevMexFisE.21.010210
+
+* 🧠 **Software de pruebas para detección de niveles de atención**
+  *PCT, 2023*
+  https://doi.org/10.61820/pct.v6i11.1104
+
+---
+
+## 🔗 Research Profiles
+
+* 🧠 ORCID: https://orcid.org/0009-0000-6736-8414
+
+---
+
+## 🤖 Agents & Runtime Systems
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-Agents-black" />
+  <img src="https://img.shields.io/badge/LLM-Tooling-purple" />
+</p>
+
+* Agent-based systems with tool usage
+* Memory-enabled architectures
+* Autonomous task execution
+
+---
+
+## 🧱 Backend & Full Stack
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-Typed-blue?logo=typescript" />
+</p>
+
+* Full-stack AI product development
+* Clean architecture systems
+* Secure multi-tenant APIs (auth, rate limiting)
+
+---
+
+## 🛠️ Tools & Internal Systems
+
+* Built internal tools:
+
+  * Labeling systems
+  * Agent dashboards
+  * Debugging & experimentation tools
+
+* AI-assisted development:
+
+  * Codex, Claude Code, OpenCode
+
+---
+
+## 🌐 Open Source
+
+* Creator of: https://github.com/abelsr/nops
+* Contributions to MCP ecosystem
+* Multiple public repositories
+
+---
+
+## ⭐ Featured Projects
+
+* 🚀 AI Sandbox Runtime *(private system, architecture available upon request)*
+* 🤖 Multimodal Document AI (OCR + validation pipelines)
+* ⚡ High-performance LLM serving stack
+
+---
+
+## 📊 Current Focus
+
+* Scalable AI systems
+* Agent runtimes & autonomy
+* Production-grade ML infrastructure
+
+---
+
+<p align="center">
+  ⚡ Building AI systems that actually work in production ⚡
+</p>
