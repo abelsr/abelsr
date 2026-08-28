@@ -1,4 +1,4 @@
-﻿<h1 align="center">🚀 Abel Santillán Rodriguez</h1>
+<h1 align="center">🚀 Abel Santillán Rodriguez</h1>
 <h3 align="center">AI Systems Engineer | Multimodal AI | ML Infrastructure ⚡</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abelsr&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abelsr&theme=tokyonight" />
+  <img src="https://streak-stats.demogur.com/?user=abelsr&theme=tokyonight" />
 </p>
 
 ---
@@ -23,9 +23,7 @@ AI Systems Engineer with a background in physics, focused on designing and deplo
 
 I work across the full stack of AI:
 
-$$
-\text{Data → Training → Optimization → Deployment → Scaling}
-$$
+**Data → Training → Optimization → Deployment → Scaling**
 
 * 🤖 Multimodal AI (LLMs + Vision + Video)
 * ⚙️ ML Infrastructure & High-performance inference
@@ -62,10 +60,7 @@ $$
 
 ### ⚡ Performance & Cost Optimization
 
-* Reduced GPU costs:
-  $$
-  0.44 \ \text{USD/hr} \rightarrow 0.24 \ \text{USD/hr}
-  $$
+* Reduced GPU costs by **45%** ($0.44/hr → $0.24/hr)
 * Improved GPU utilization via batching & optimization strategies
 * Optimized inference latency and throughput
 
