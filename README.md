@@ -17,8 +17,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abelsr&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demogur.com/?user=abelsr&theme=tokyonight" />
+  <a href="https://github.com/abelsr?tab=repositories">
+    <img src="https://img.shields.io/badge/⭐-57%20Stars-ffd700" />
+  </a>
+  <a href="https://github.com/abelsr?tab=repositories">
+    <img src="https://img.shields.io/badge/🍴-25%20Forks-555" />
+  </a>
+  <a href="https://github.com/abelsr?tab=repositories">
+    <img src="https://img.shields.io/badge/📦-12%20Open%20Source%20Repos-blue" />
+  </a>
 </p>
 
 ---
